@@ -9,13 +9,6 @@ namespace Iseseiv
         static void Main(string[] args)
         {
 
-
-
-
-
-
-
-
         }
     }
 }
